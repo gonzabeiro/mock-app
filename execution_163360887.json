@@ -1,0 +1,37 @@
+{
+    "result": {
+        "_evaluations": {},
+        "online_payments_dummy": "LOW"
+    },
+    "execution_id": 5050990100,
+    "models": [
+        {
+            "mode": "online",
+            "result": {
+                "result": "LOW",
+                "rule_id": "default",
+                "result_type": "label",
+                "extra_info": null,
+                "evaluations": null,
+                "elapsed_time": 39,
+                "model_id": "online_payments"
+            },
+            "last_updated": "2020-11-17T12:08:02-0400",
+            "sub_status": "done",
+            "name": "online_payments_dummy",
+            "alias": "online_payments_dummy",
+            "creation_date": "2020-11-17T12:08:02-0400",
+            "time": 47,
+            "status": "done"
+        }
+    ],
+    "last_updated": "2020-11-17T12:08:02-0400",
+    "reference_id": 300202657,
+    "sub_status": "done",
+    "prediction_id": "fraudml_me_logistics",
+    "creation_date": "2020-11-17T12:08:02-0400",
+    "model_id": "online_payments_dummy",
+    "time": 80,
+    "request_id": "a7f18e43-61ec-43cf-8aca-4bec9257ea0a",
+    "status": "done"
+}
